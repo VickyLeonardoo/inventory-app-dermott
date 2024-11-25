@@ -1,0 +1,2 @@
+<img src="https://media.licdn.com/dms/image/C4E0BAQErVvM57WXQxw/company-logo_200_200/0/1631378626695/mcdermott_international_inc__logo?e=2147483647&v=beta&t=lN6ahfOkEU0qv_RKaAm-L82NJRTwkjhjSZskpmDHGkQ" alt="PT McDermott Logo" class="h-8 w-8 mr-2">
+<span class="font-bold text-xl">PT McDermott</span>
